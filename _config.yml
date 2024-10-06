@@ -1,6 +1,6 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
+name: "GoorAI"
+title: "GoorAI"
 description: "Jekyll template, Medium styled, free for bloggers."
 logo: '{{ site.baseurl }}/assets/images/logo.png'
 favicon: '{{ site.baseurl }}/assets/images/logo.png'
