@@ -4,6 +4,7 @@ title: "我的第一篇博客文章"
 date: 2024-10-06
 categories: [技术, Jekyll]
 tags: [博客, Jekyll, Medium]
+image: assets/images/18.jpg
 ---
 
 # 我的第一篇博客文章
